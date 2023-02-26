@@ -1,0 +1,14 @@
+.ImageGallery--pagination {
+  width: 100%;
+  text-align: center;
+}
+
+.ImageGallery--paginationButton {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+.ImageGallery--paginationButton:nth-child(2) {
+  margin-left: 1em;
+}
