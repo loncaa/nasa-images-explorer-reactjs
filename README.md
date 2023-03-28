@@ -8,3 +8,6 @@ Set up application by following next steps
    `npm start`
 - see application running on a port `3000`  
    `http://localhost:3000`
+
+# todo
+- image lazy loading with `IntersectionObserver`
